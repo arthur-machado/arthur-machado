@@ -1,16 +1,15 @@
-### Hi there 👋
+# Olá 👋, eu sou o Arthur
 
-<!--
-**arthur-machado/arthur-machado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 **Contatos**: <a href="https://www.linkedin.com/in/arthur-machado/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:arthurmachado7@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-Here are some ideas to get you started:
+## Quem eu sou:
+- 🔭 18 anos | Técnico em Informática;
+- :wrench: Desenvolvedor Web e Python;
+- :bulb: Amante da criação;
+- :v: Colaborando e estudando novas tecnologias 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-machado&show_icons=true&theme=radical)](https://github.com/arthur-machado/github-readme-stats)
+
+[![Status](https://github-readme-stats.vercel.app/api?username=arthur-machado&hide=prs,contribs,issues&show_icons=true&theme=radical)](https://github.com/arthur-machado/github-readme-stats)
