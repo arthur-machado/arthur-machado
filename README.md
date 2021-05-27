@@ -10,6 +10,6 @@
 
 ## Linguagens:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-machado&show_icons=true&theme=radical)](https://github.com/arthur-machado/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-machado&show_icons=true&)](https://github.com/arthur-machado/)
 
 [![Status](https://github-readme-stats.vercel.app/api?username=arthur-machado&hide=prs,contribs,issues&show_icons=true&theme=radical)](https://github.com/arthur-machado/github-readme-stats)
