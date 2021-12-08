@@ -3,10 +3,9 @@
 📫 **Contatos**: <a href="https://www.linkedin.com/in/arthur-machado/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:arthurmachado7@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ## Quem eu sou:
-- 🔭 19 anos | Técnico em Informática;
-- :wrench: Desenvolvedor Web e Python;
+- 🔭 20 anos | Técnico em Informática;
+- ⚛ React;
 - :bulb: Amante da criação;
-- :v: Colaborando e estudando novas tecnologias 
 
 ## Linguagens:
 
